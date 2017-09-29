@@ -10,6 +10,7 @@
     //查询所有列(正序排列)，将结果保存至rows中
     $rows=$smt -> fetchAll(PDO::FETCH_ASSOC);
 
+
  ?>
 
 <!DOCTYPE html>
